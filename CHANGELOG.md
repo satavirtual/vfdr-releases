@@ -3,10 +3,14 @@
 Histórico de versões do vFDR.
 Formato inspirado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
-## [Em teste] — 5.0.0
+## [Alpha] — 5.0.0-alpha.1 *(em teste)*
 
-Primeira versão do **vFDR next** — reescrita completa em Java (multi-plataforma),
+Primeira entrega do **vFDR next** — reescrita completa em Java (multi-plataforma),
 com retrocompatibilidade total com o vFDR C# na comunicação com a VA.
+
+> ⚠️ **Versão alfa.** Dirigida a pilotos de teste da SATA Virtual. Pode ter erros
+> e sofrer alterações entre alfas. As alfas são publicadas como *Pre-release* no
+> GitHub e o próprio vFDR só oferece atualizações estáveis por omissão.
 
 ### Adicionado
 - Painel web (browser + janela própria) com mapa, gráficos, METAR e estado do voo
@@ -18,5 +22,4 @@ com retrocompatibilidade total com o vFDR C# na comunicação com a VA.
 - Manuais completos em português e inglês
 
 ### Notas
-- Versão ainda em teste interno — a release oficial será publicada após validação
-  em voo.
+- Ainda **sem release publicada** — a primeira alfa sai depois da validação em voo.
