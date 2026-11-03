@@ -3,6 +3,17 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.0.1.0-beta.2] — 2026-11-03
+
+### Adicionado
+
+- **FPS e temperaturas do overlay separados.** Nas SETTINGS, a opção única passou a duas: mostrar os **FPS** e mostrar as temperaturas de **CPU/GPU**. Podes ter só os FPS, só as temperaturas ou nenhuma (o grupo desaparece da barra). Se já tinhas desligado a opção antiga, as duas ficam desligadas.
+
+- **Botão MAP no overlay.** A seguir ao NAVLOG, a barra do overlay tem agora o botão **MAP**, que abre um mapa simples da tua rota sem saíres do simulador: a rota com os pontos de passagem e os respetivos nomes, a partida e o destino com o código ICAO, os pontos já passados esbatidos, o ponto para onde vais realçado e o avião na posição atual, virado para o rumo. O canto do painel mostra o ponto seguinte e a distância até ele. O mapa ajusta-se sozinho à rota, mesmo que passe pela linha de data. É leve para o PC: é desenhado só com linhas, sem mapa de fundo nem internet, e só se atualiza enquanto o painel está aberto, por isso não pesa nos FPS do simulador. Sem OFP carregado o botão fica esbatido; sem simulador o mapa mostra só a rota.
+- **FIRs no MAP.** O mapa do overlay mostra agora, esbatidas por baixo da rota, as fronteiras das FIRs e o respetivo código (por exemplo LPPC e LPPO na rota Lisboa - Santa Maria), também junto à linha de data. Não pesa: só é desenhado quando a rota muda ou o painel é aberto, não de cada vez que o avião se mexe.
+- **Terra e costa no MAP.** O mapa do overlay mostra agora a terra e a linha de costa, discretas, por baixo das FIRs e da rota, que continua a ser o que mais se vê. Continua leve: a terra só se desenha quando a rota ou o zoom mudam, não de cada vez que o avião se mexe, e os dados vão incluídos no vFDR (não precisa de internet). Os contornos vêm do Natural Earth (domínio público).
+- **Mapa maior e com zoom.** O painel MAP ocupa agora cerca de metade da altura do ecrã e tem no topo os botões **−**, **+** e **⤢** (voltar à rota inteira): com 2×, 4× e 8× o avião fica sempre ao centro do mapa, com o norte em cima, e é o mapa que se desloca por baixo dele, sem pesar. Também corrigido: o código do aeroporto de partida e de destino aparece agora sempre junto ao marcador grande do aeroporto.
+
 ## [5.0.1.0-beta.1] — 2026-11-03
 
 **Primeira versão beta do vFDR Next.** Reúne tudo o que mudou desde a 5.0.0-alpha.4. Esta versão traz o **overlay sobre o simulador** (com os botões GET OFP, PIREP e DATALINK e o modo recolhido no ícone da SATA), um **Hoppie mais seguro** para quem voa na VATSIM/IVAO, o **volume do PA**, e o vFDR que **continua a correr** quando fechas a janela.
