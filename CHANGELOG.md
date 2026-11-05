@@ -3,6 +3,16 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.0.1.0-beta.3] — 2026-11-05
+
+### Corrigido
+
+- **Taxa de descida no toque igual à do vFDR original.** No MSFS (via FSUIPC), a taxa de toque e o G podiam sair mais altos do que no vFDR antigo para a mesma aterragem. O vFDR Next passa a usar a taxa lida no primeiro contacto das rodas e a mantê-la, como o vFDR original.
+
+### Adicionado
+
+- **Manual também em PDF.** Na página de cada versão, o manual passa a vir também em PDF, em português e em inglês, para leres ou imprimires sem precisares do site.
+
 ## [5.0.1.0-beta.2] — 2026-11-03
 
 ### Adicionado
