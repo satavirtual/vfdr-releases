@@ -3,6 +3,12 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.0.1.0-beta.6] — 2026-11-06
+
+### Adicionado
+
+- **Atualizar agora.** No Windows e no Mac (vFDR instalado), o aviso de nova versão tem agora o botão **ATUALIZAR AGORA**: o vFDR descarrega a versão nova, verifica-a, fecha e volta a abrir já atualizado. Um ecrã cobre o dashboard com o progresso e há **CANCELAR** durante a transferência. Não funciona durante um voo nem com um PIREP por enviar; se algo falhar, nada é instalado e o vFDR continua a funcionar. **ABRIR RELEASE** e **DISPENSAR** continuam como antes; no Linux só existe **ABRIR RELEASE**.
+
 ## [5.0.1.0-beta.5] — 2026-11-06
 
 ### Corrigido
