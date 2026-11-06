@@ -8,12 +8,12 @@ companhia e mostra tudo num painel web em tempo real.
 
 ## Downloads
 
-Última versão: **5.0.1-beta.5** (2026-11-06) — [notas da versão](https://github.com/satavirtual/vfdr-releases/releases/tag/5.0.1-beta.5).
+Última versão: **5.0.1-beta.6** (2026-11-06) — [notas da versão](https://github.com/satavirtual/vfdr-releases/releases/tag/5.0.1-beta.6).
 Todas as versões estão em [**Releases**](../../releases).
 
 | SO | Ficheiro | Como instalar |
 |---|---|---|
-| Windows 10/11 (x64) | [`vfdr-next-5.0.1.0-beta.5-windows-x64.msi`](https://github.com/satavirtual/vfdr-releases/releases/download/5.0.1-beta.5/vfdr-next-5.0.1.0-beta.5-windows-x64.msi) | Duplo clique no MSI. Instala **por utilizador** (sem administrador), com menu e atalho; instalar por cima faz upgrade. |
+| Windows 10/11 (x64) | [`vfdr-next-5.0.1.0-beta.6-windows-x64.msi`](https://github.com/satavirtual/vfdr-releases/releases/download/5.0.1-beta.6/vfdr-next-5.0.1.0-beta.6-windows-x64.msi) | Duplo clique no MSI. Instala **por utilizador** (sem administrador), com menu e atalho; instalar por cima faz upgrade. |
 | macOS (Intel / Apple Silicon) | *segue em breve* | |
 | Linux | *segue em breve* | |
 
