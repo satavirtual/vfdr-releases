@@ -3,6 +3,20 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.0.1.0-beta.4] — 2026-11-06
+
+### Adicionado
+
+- **Aviso de nova versão.** O vFDR Next passa a avisar-te, com um pequeno indicador no topo do dashboard e uma janela azul, quando existe uma versão mais recente (betas incluídas), com a ligação para a página da versão. Não descarrega nem instala nada sozinho, não aparece durante um voo e, depois de dispensares o aviso, só volta quando houver outra versão ainda mais nova. Podes desligá-lo nas SETTINGS (**Avisar de novas versões**).
+
+### Corrigido
+
+- **Instalar uma versão nova por cima já atualiza, sem desinstalar primeiro.** Instalar uma versão nova do vFDR Next por cima da anterior passa a atualizá-la diretamente. Podes ficar descansado: as definições, a VA e os PIREPs ficam numa pasta própria e não são apagados ao atualizar nem ao desinstalar. Nota: a versão que o Windows mostra em Definições → Aplicações passa a ter um número diferente (por exemplo 5.0.1104.0); a versão verdadeira continua a aparecer no vFDR.
+
+### Alterado
+
+- **Volume dos anúncios da cabine mais baixo por omissão.** O PA da cabine passa a começar a 60 % (antes 100 %) e continua ligado. Se já tinhas escolhido um volume nas SETTINGS, esse valor mantém-se; podes mudá-lo quando quiseres.
+
 ## [5.0.1.0-beta.3] — 2026-11-05
 
 ### Corrigido
