@@ -3,6 +3,12 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.0.1.0-beta.5] — 2026-11-06
+
+### Corrigido
+
+- **Registo de diagnóstico.** O registo de diagnóstico mostra corretamente a versão na verificação de novas versões.
+
 ## [5.0.1.0-beta.4] — 2026-11-06
 
 ### Adicionado
