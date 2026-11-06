@@ -3,6 +3,17 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.0.1.0] — 2026-11-06
+
+**Versão final da 5.0.1.** É o mesmo vFDR Next da 5.0.1.0-beta.6, agora como versão estável. Reúne tudo o que entrou nas betas 1 a 6 (descrito em detalhe nas secções abaixo). Os destaques:
+
+- **Atualizar agora**: no Windows e no Mac, o aviso de nova versão descarrega, verifica e instala a versão nova, e volta a abrir o vFDR já atualizado.
+- **Instalar por cima**: uma versão nova instala-se por cima da anterior, sem desinstalar e sem perder as definições.
+- **Overlay sobre o simulador**: barra com o teu voo, botões e painéis (ACARS, FDM, OFP, NAVLOG, MAP, METAR), FPS e temperaturas.
+- **Taxa de descida no toque** igual à do vFDR original (MSFS via FSUIPC).
+- **PA da cabine** ligado por omissão, com volume ajustável (60 % por omissão).
+- **Log de diagnóstico**, botão **SAIR / QUIT vFDR**, fechar a janela esconde o vFDR na área de notificação, e manual também em PDF.
+
 ## [5.0.1.0-beta.6] — 2026-11-06
 
 ### Adicionado
