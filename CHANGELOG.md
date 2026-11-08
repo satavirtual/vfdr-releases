@@ -3,6 +3,12 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.1.0.0-beta.2] — 2026-11-08
+
+### Adicionado
+
+- **Painel ASSIGNMENTS.** Por cima do BOOK, mostra os voos que te foram atribuídos na semana, como no Pilot Console do site (dia, voo, partida, chegada, tempo de voo, avião e observações). Clica no número de um voo disponível para fazer o book: o vFDR pede confirmação e leva-te ao passo seguinte do BOOK já com esse voo escolhido. Nas viagens como passageiro (extra-crew) podes mudar a tua localização com um clique.
+
 ## [5.1.0.0-beta.1] — 2026-11-08
 
 **Primeira beta da 5.1.0: reservar voos e preparar o OFP sem sair do vFDR.**
