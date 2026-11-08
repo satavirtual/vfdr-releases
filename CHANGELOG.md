@@ -3,6 +3,20 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.1.0.0-beta.1] — 2026-11-08
+
+**Primeira beta da 5.1.0: reservar voos e preparar o OFP sem sair do vFDR.**
+
+### Adicionado
+
+- **Conta SATA Virtual.** Em **⚙ SETTINGS > Conta SATA Virtual** entras no site da SATA Virtual a partir do vFDR (botão **ENTRAR**). A sessão fica guardada de forma segura neste computador e a tua password nunca passa pelo vFDR. Com a sessão iniciada, o **GET OFP** usa-a automaticamente.
+- **Painel ✈ BOOK: reservar voo.** Assistente de 4 passos: escolher o voo (a partir de onde estás ou no horário completo, por dia, com filtro de destino), preencher os detalhes (hora de partida, avião, indicativo, rede, multicrew), confirmar e fazer o book. O botão **AGORA + 35 MIN** acerta a partida para daqui a pouco. Também podes **mudar de localização** (Dead Head Crew).
+- **Os meus books.** Os teus books aparecem no painel BOOK com o estado do OFP: podes **cancelar** um book, **gerar o OFP** que falta ou, num voo atrasado, **atualizar a hora e o OFP**.
+- **OFP do simBrief a partir do BOOK.** **GERAR OFP NO SIMBRIEF** abre o simBrief numa janela pequena do vFDR, já preenchida; quando o OFP fica pronto o vFDR importa-o e **OBTER OFP** carrega o plano. A sessão do simBrief fica guardada (cifrada) para não teres de entrar de cada vez; podes apagá-la com **ESQUECER SESSÃO DO SIMBRIEF**.
+- **Bloco BRIEFING no OFP.** Em **FLIGHT — OFP DATA**: stand atribuído, pista planeada, categoria de voo do METAR na partida, destino e alternantes, documentos da companhia, ligação ao SkyVector e cartas de meteorologia. **ABRIR BRIEFING NO SITE** abre o briefing da SATA numa janela própria.
+- **Próximo passo a piscar.** O botão da próxima ação do BOOK pisca para te guiar, e o **GET OFP** pisca quando há um OFP pronto por carregar.
+- **Cancelar ou criar um book ajusta o OFP carregado.** Se cancelares o book do OFP carregado, ou se um book novo passar a ser o teu próximo voo, o plano antigo é limpo (nunca durante um voo em curso).
+
 ## [5.0.1.0] — 2026-11-06
 
 **Versão final da 5.0.1.** É o mesmo vFDR Next da 5.0.1.0-beta.6, agora como versão estável. Reúne tudo o que entrou nas betas 1 a 6 (descrito em detalhe nas secções abaixo). Os destaques:
