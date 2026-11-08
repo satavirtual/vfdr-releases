@@ -8,13 +8,13 @@ companhia e mostra tudo num painel web em tempo real.
 
 ## Downloads
 
-Última versão: **5.1.0-beta.1** (2026-11-08) — [notas da versão](https://github.com/satavirtual/vfdr-releases/releases/tag/5.1.0-beta.1).
+Última versão: **5.1.0-beta.2** (2026-11-08) — [notas da versão](https://github.com/satavirtual/vfdr-releases/releases/tag/5.1.0-beta.2).
 Todas as versões estão em [**Releases**](../../releases).
 
 | SO | Ficheiro | Como instalar |
 |---|---|---|
-| macOS (Apple Silicon) | [`vfdr-next-5.1.0.0-beta.1-mac-arm64.dmg`](https://github.com/satavirtual/vfdr-releases/releases/download/5.1.0-beta.1/vfdr-next-5.1.0.0-beta.1-mac-arm64.dmg) | Abrir o DMG e arrastar a app para Aplicações. App **não assinada**: se o macOS disser «Não é possível abrir», Definições do Sistema → Privacidade e Segurança → *Abrir mesmo assim*, ou no Terminal  (clique-direito → *Abrir* já não chega no macOS 15+). Só conector X-Plane. |
-| Windows 10/11 (x64) | [`vfdr-next-5.1.0.0-beta.1-windows-x64.msi`](https://github.com/satavirtual/vfdr-releases/releases/download/5.1.0-beta.1/vfdr-next-5.1.0.0-beta.1-windows-x64.msi) | Duplo clique no MSI. Instala **por utilizador** (sem administrador), com menu e atalho; instalar por cima faz upgrade. |
+| Windows 10/11 (x64) | [`vfdr-next-5.1.0.0-beta.2-windows-x64.msi`](https://github.com/satavirtual/vfdr-releases/releases/download/5.1.0-beta.2/vfdr-next-5.1.0.0-beta.2-windows-x64.msi) | Duplo clique no MSI. Instala **por utilizador** (sem administrador), com menu e atalho; instalar por cima faz upgrade. |
+| macOS (Intel / Apple Silicon) | *segue em breve* | |
 | Linux | *segue em breve* | |
 
 Cada instalador traz o `.sha256` correspondente na mesma página. Os manuais
