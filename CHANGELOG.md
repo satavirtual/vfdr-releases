@@ -3,6 +3,16 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.1.0.0-beta.3] — 2026-11-08
+
+### Adicionado
+
+- **TAF junto ao METAR.** As barras de meteorologia de partida e destino do dashboard e o painel METAR do overlay mostram agora também o TAF de cada aeródromo, com um grupo de previsão por linha.
+
+### Alterado
+
+- **Combustível em destaque.** Os mosaicos por baixo dos botões mostram agora só o **combustível a bordo** e o **combustível previsto à chegada**: em voo é uma estimativa ao vivo (consumo atual e distância que falta pela rota do OFP); no solo antes de partir, o EFOB planeado do OFP. IAS, altitude e V/S continuam nos gráficos.
+
 ## [5.1.0.0-beta.2] — 2026-11-08
 
 ### Adicionado
