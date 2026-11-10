@@ -8,12 +8,12 @@ companhia e mostra tudo num painel web em tempo real.
 
 ## Downloads
 
-Última versão: **5.2.0-beta.6** (2026-11-10) — [notas da versão](https://github.com/satavirtual/vfdr-releases/releases/tag/5.2.0-beta.6).
+Última versão: **5.2.0-beta.7** (2026-11-10) — [notas da versão](https://github.com/satavirtual/vfdr-releases/releases/tag/5.2.0-beta.7).
 Todas as versões estão em [**Releases**](../../releases).
 
 | SO | Ficheiro | Como instalar |
 |---|---|---|
-| macOS (Apple Silicon) | [`vfdr-next-5.2.0.0-beta.6-mac-arm64.dmg`](https://github.com/satavirtual/vfdr-releases/releases/download/5.2.0-beta.6/vfdr-next-5.2.0.0-beta.6-mac-arm64.dmg) | Abrir o DMG e arrastar a app para Aplicações. App **não assinada**: se o macOS disser «Não é possível abrir», Definições do Sistema → Privacidade e Segurança → *Abrir mesmo assim*, ou no Terminal `xattr -dr com.apple.quarantine "/Applications/vFDR Next.app"` (clique-direito → *Abrir* já não chega no macOS 15+). Só conector X-Plane. |
+| macOS (Apple Silicon) | [`vfdr-next-5.2.0.0-beta.7-mac-arm64.dmg`](https://github.com/satavirtual/vfdr-releases/releases/download/5.2.0-beta.7/vfdr-next-5.2.0.0-beta.7-mac-arm64.dmg) | Abrir o DMG e arrastar a app para Aplicações. App **não assinada**: se o macOS disser «Não é possível abrir», Definições do Sistema → Privacidade e Segurança → *Abrir mesmo assim*, ou no Terminal `xattr -dr com.apple.quarantine "/Applications/vFDR Next.app"` (clique-direito → *Abrir* já não chega no macOS 15+). Só conector X-Plane. |
 | Windows 10/11 (x64) | *segue em breve* | o MSI é gerado na máquina Windows. |
 | Linux | *segue em breve* | |
 
