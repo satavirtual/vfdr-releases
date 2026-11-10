@@ -3,6 +3,13 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.0.0-beta.5] — 2026-11-10
+
+### Adicionado
+
+- **Combustível extra ao gerar o OFP.** No passo 4 do BOOK há agora o campo EXTRA FUEL (kg), como na página de despacho do site: vem preenchido com o valor do book e podes alterá-lo antes de gerar o OFP no simBrief. Depois de gerado, o vFDR mostra o valor usado.
+- **Botão BOOK no overlay.** Antes do DATALINK há um botão BOOK: traz o vFDR à frente e abre-o directamente no BOOK. Pisca enquanto o site indicar que não tens nenhum book (não pisca se já tens book, se já tens um plano carregado, durante o voo, ou se não for possível saber).
+
 ## [5.2.0.0-beta.4] — 2026-11-10
 
 ### Alterado
