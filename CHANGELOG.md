@@ -3,6 +3,20 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.0.0-beta.3] — 2026-11-10
+
+### Adicionado
+
+- **Relatório de voo ao enviar o PIREP.** O popup do SEND PIREP (dashboard, EFB e overlay) passa a ter o mesmo relatório do site: quem voou a descolagem e a aterragem, código de atraso (só se a partida atrasou mais de 9 minutos), minutos de APU, tipo de aproximação, autoland e combustível (previsto, a bordo, gasto e diferença, com código quando a diferença passa os 5 %, e um código opcional de combustível extra). Tudo se escolhe de listas; só a gate e o comentário são texto. Os valores que o vFDR não consegue calcular aparecem como "—". O relatório segue com o PIREP e fica gravado no site: **deixa de ser preciso ir ao site fazer o "Submit flight report"** desse voo (o formulário do site continua disponível). No EFB o relatório está sempre à vista e desbloqueia em ON BLOCKS.
+- **Passageiros nas reservas.** O BOOK e os ASSIGNMENTS (dashboard e EFB) mostram o número de passageiros de cada reserva e dos voos atribuídos.
+- **EFB para tablet (opcional).** Uma interface pensada para o tablet, com ecrãs de voo, navlog, meteorologia e PIREP. Vem desligada: ligue-a nas Definições (cartão EFB), reinicie o vFDR e abra no tablet o endereço indicado. O dashboard normal fica igual. O EFB inclui também o plano de voo (OFP), combustível, ACARS da companhia, mapa da rota, reservas (só leitura) e ajustes de tema e brilho.
+- **Escolher os ecrãs do EFB.** No cartão EFB das Definições há agora uma caixa por ecrã (FLIGHT, OFP, NAV, WX, FUEL, ACARS, BOOK, PIREP): desligue os que não usa e o tablet deixa de os mostrar — e de os actualizar, para não gastar recursos. FLIGHT, OFP e PIREP estão sempre ligados (as caixas aparecem marcadas e bloqueadas); só NAV, WX, FUEL, ACARS e BOOK se podem desligar. Por omissão ficam todos ligados. A lista não precisa de reiniciar o vFDR: o tablet apanha-a sozinha. O ecrã SET está sempre disponível.
+
+### Alterado
+
+- **DATALINK só com mensagens recebidas.** O painel DATALINK e o overlay passam a mostrar só as mensagens que chegam da companhia e os briefings; as mensagens enviadas pelo vFDR deixam de encher a lista. O vFDR lê a caixa Hoppie da sua estação mesmo com o envio para a Hoppie desligado.
+- **Overlay: painel OFP** com a mesma distribuição do separador OFP do dashboard (cartões em mosaico, mais largo e fácil de ler).
+
 ## [5.1.0.0-beta.3] — 2026-11-08
 
 ### Adicionado
