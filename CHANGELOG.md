@@ -3,6 +3,12 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.0.0-beta.6] — 2026-11-10
+
+### Adicionado
+
+- **O EFB abre sozinho no PC.** Com o EFB ligado, ao arrancar o vFDR abre o EFB no navegador do computador, uma vez por arranque.
+
 ## [5.2.0.0-beta.5] — 2026-11-10
 
 ### Adicionado
