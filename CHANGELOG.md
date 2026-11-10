@@ -3,6 +3,12 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.0.0-beta.8] — 2026-11-10
+
+### Adicionado
+
+- **Botão ✕ FECHAR na barra do simulador.** Fecha o vFDR com dois cliques (o primeiro pede confirmação durante uns segundos). Se tiveres um voo em registo ou o PIREP por enviar, avisa a vermelho que o voo se perde ou que o PIREP fica por enviar; um segundo clique fecha mesmo assim.
+
 ## [5.2.0.0-beta.7] — 2026-11-10
 
 ### Alterado
