@@ -3,6 +3,13 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.0.0-beta.4] — 2026-11-10
+
+### Alterado
+
+- **PIREP passou a REPORT.** Como o envio leva agora o relatório de voo completo, o botão SEND PIREP chama-se SEND REPORT no dashboard, no EFB e no overlay, e os avisos e mensagens falam em relatório.
+- **Passageiros nas reservas já com números.** O site passou a enviar os passageiros: o BOOK e os ASSIGNMENTS mostram agora o número de cada reserva e dos voos atribuídos de hoje em diante.
+
 ## [5.2.0.0-beta.3] — 2026-11-10
 
 ### Adicionado
