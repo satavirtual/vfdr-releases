@@ -3,6 +3,22 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.0.0] — 2026-11-11
+
+**Versão final da 5.2.0.** É a primeira versão estável depois da 5.0.1 e reúne tudo o que entrou nas betas da 5.1.0 e da 5.2.0 (descrito em detalhe nas secções abaixo), mais os documentos OFP descritos a seguir. Os destaques:
+
+- **Conta SATA Virtual, BOOK e ASSIGNMENTS**: entras no site a partir do vFDR, reservas voos, vês os voos atribuídos e geras o OFP no simBrief sem sair da app (com combustível extra).
+- **Relatório de voo no SEND REPORT**: o relatório do site segue com o PIREP; deixa de ser preciso ir ao site submetê-lo.
+- **EFB para tablet (opcional)**: ecrãs de voo, OFP, navlog, meteorologia, combustível, ACARS, reservas e relatório; abre sozinho no PC ao arrancar.
+- **Overlay**: botões BOOK e ✕ FECHAR, painel OFP renovado, METAR com TAF.
+- **OFP SimBrief e OFP Azores** no dashboard, e opcionalmente no overlay e no EFB.
+
+### Adicionado
+
+- **OFP SimBrief e OFP Azores.** No separador FLIGHT — OFP DATA há agora dois botões lado a lado: **OFP SimBrief** (o PDF do teu plano do SimBrief) e **OFP Azores** (o OFP da companhia, em texto). Cada um abre numa janela por cima do dashboard, onde podes ler e rolar as páginas, e tem um botão **PDF ↓** para descarregar. Se o documento ainda não existir (ou não tiveres sessão no site), mostra «indisponível».
+- **O ecrã OFP do EFB já se pode desligar.** Nas definições do EFB há agora a opção *EFB: OFP screen*, ligada por omissão (quem já usa o EFB não perde nada).
+- **No overlay e no EFB (opcional).** Quatro definições novas, todas desligadas por omissão, uma por documento: *Overlay: SIMBRIEF OFP button* e *Overlay: AZORES OFP button* acrescentam o botão respectivo à barra sobre o simulador; *EFB: SIMBRIEF OFP screen* e *EFB: AZORES OFP screen* acrescentam o ecrã respectivo ao EFB do tablet. Aplicam-se ao guardar, sem reiniciar.
+
 ## [5.2.0.0-beta.8] — 2026-11-10
 
 ### Adicionado
