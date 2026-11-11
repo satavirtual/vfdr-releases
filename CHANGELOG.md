@@ -3,6 +3,14 @@
 Todas as versões do vFDR Next, a nova versão do vFDR da SATA Virtual.
 Este é o resumo para pilotos; os instaladores e os manuais estão em cada versão.
 
+## [5.2.1.0] — 2026-11-11
+
+**Versão de transição para a nova forma de receber atualizações.** Os instaladores, os manuais e as notas de cada versão passam a estar na área de pilotos do site da SATA Virtual (Pilot Console, menu **RESOURCES > vFDR NEXT DOWNLOADS**, com a tua sessão iniciada) e o vFDR passa a ir buscá-los lá.
+
+- **Atualizações pelo site.** O vFDR continua a avisar quando há uma versão nova, mas agora pergunta ao site da SATA Virtual. Para **atualizar** (ATUALIZAR AGORA) é preciso ter a sessão iniciada em ⚙ SETTINGS > Conta SATA Virtual; o resto do vFDR funciona sem sessão, como sempre.
+- **Sem sessão iniciada** o aviso diz «Nova versão X — inicie sessão (⚙ SETTINGS > Conta SATA Virtual) para atualizar» e tem um botão que te leva às definições da conta.
+- **Importante:** atualiza para a 5.2.1 assim que puderes. Em breve as versões anteriores deixam de ver novidades; a partir da 5.2.1 os avisos e as atualizações chegam sempre pelo site. Se já não vires o aviso, descarrega a versão mais recente em **RESOURCES > vFDR NEXT DOWNLOADS** e instala-a por cima da tua.
+
 ## [5.2.0.0] — 2026-11-11
 
 **Versão final da 5.2.0.** É a primeira versão estável depois da 5.0.1 e reúne tudo o que entrou nas betas da 5.1.0 e da 5.2.0 (descrito em detalhe nas secções abaixo), mais os documentos OFP descritos a seguir. Os destaques:
